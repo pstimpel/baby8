@@ -66,3 +66,10 @@ What else do we have?
 ## Dislaimer
 
 Whatever you do with this stuff, don't blame me! If magic smoke appears, or you destroy your electronic lab, it is on you, only. As well I am not reliable if your created sounds cause zombees to go wild, or Aliens to examine your butt. You were warned!
+
+## License
+
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
