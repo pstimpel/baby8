@@ -1,6 +1,6 @@
 # Baby 8 sequencer for a modular synth, Eurorack format
 
-Video: 
+Video: https://www.youtube.com/watch?v=BOAYwrKv-HQ
 
 Some time ago I started building a modular synth. This is not so much about music, it is more about analogue electronics. Therefore, 
 
